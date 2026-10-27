@@ -1,0 +1,5 @@
+Model,WAPE,MAE,RMSE,RMSSE
+Seasonal Naive,0.7819,4.031,5.143,1.3183
+Prophet,0.6765,3.488,4.2,1.0766
+LightGBM (Tweedie),0.3803,1.961,2.7,0.6921
+TFT (PyTorch),0.6758,3.484,4.3,1.1024
